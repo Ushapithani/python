@@ -1,0 +1,50 @@
+expand window size i+Sliding window problems are a favorite in coding interviews because they test your ability to optimize brute-force solutions. Here’s a curated list of **top sliding window questions** that frequently show up:
+
+### 🟢 Easy Level
+- **Maximum Sum Subarray of Size K**
+- **First Negative Integer in Every Window of Size K**
+- **Check if a Permutation of a Pattern Exists in a String**
+- **Count Occurrences of Anagrams**
+- **Smallest Window Containing 0, 1, and 2**
+
+### 🟡 Medium Level
+- **Longest Substring with K Distinct Characters**
+- **Subarrays with Product Less Than K**
+- **Maximum Number of Vowels in a Substring of Given Length**
+- **Fruit Into Baskets**
+- **Longest Repeating Character Replacement**
+
+### 🔴 Hard Level
+- **Sliding Window Maximum**
+- **Minimum Window Substring**
+- **Substring with Concatenation of All Words**
+- **Longest Substring with K Unique Characters**
+- **Count Subarrays with K Different Integers**
+
+You can find a full breakdown of these problems with explanations and links to practice them on [GeeksforGeeks](https://www.geeksforgeeks.org/dsa/top-problems-on-sliding-window-technique-for-interviews/) and [Innoskrit’s curated list](https://learn.innoskrit.in/blog/solve-these-25-problems-to-master-sliding-window-pattern/).
+
+Want help solving one of these or walking through the logic behind them? I’m all in.
+
+shrink window size i-1
+
+
+
+If you're prepping for interviews, these **top LeetCode sliding window questions** are absolute must-solves—they’re frequently asked and test both fixed and variable window mastery:
+
+### 🔹 Easy to Medium
+- **Maximum Sum Subarray of Size K** (LC #643)
+- **Find All Anagrams in a String** (LC #438)
+- **Permutation in String** (LC #567)
+- **Longest Substring Without Repeating Characters** (LC #3)
+- **Maximum Number of Vowels in a Substring of Given Length** (LC #1456)
+
+### 🔸 Medium to Hard
+- **Sliding Window Maximum** (LC #239)
+- **Minimum Window Substring** (LC #76)
+- **Subarrays with K Different Integers** (LC #992)
+- **Longest Substring with At Most K Distinct Characters** (LC #340)
+- **Substring with Concatenation of All Words** (LC #30)
+
+You can find a curated list of these and more on [Innoskrit’s 25-problem guide](https://learn.innoskrit.in/blog/solve-these-25-problems-to-master-sliding-window-pattern/) and a helpful breakdown on [GeeksforGeeks](https://www.geeksforgeeks.org/dsa/sliding-window-problems-identify-solve-and-interview-questions/).
+
+Want to dive into one of these together or build a study plan around them? I’ve got your back.
